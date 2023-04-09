@@ -1,4 +1,4 @@
-a =int(input("enter a number = "))
+a =int(input("Enter a number = "))
 
 
 flag = False
